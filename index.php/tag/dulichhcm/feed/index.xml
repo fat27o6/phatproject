@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>NguyenHoangPhat &#8211; MyProject_501210611</title>
-	<atom:link href="http://localhost/myproject/wordpress/index.php/author/nguyenhoangphat/feed/" rel="self" type="application/rss+xml" />
+	<title>dulichhcm &#8211; MyProject_501210611</title>
+	<atom:link href="http://localhost/myproject/wordpress/index.php/tag/dulichhcm/feed/" rel="self" type="application/rss+xml" />
 	<link>https://fat27o6.github.io/phatproject</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Mon, 12 Sep 2022 00:34:53 +0000</lastBuildDate>
@@ -20,42 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>Blog</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/2022/08/24/blog/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/2022/08/24/blog/#respond</comments>
-		
-		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
-		<pubDate>Wed, 24 Aug 2022 06:38:51 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?p=13</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/2022/08/24/blog/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Home Page</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/2022/08/24/home-page/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/2022/08/24/home-page/#respond</comments>
-		
-		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
-		<pubDate>Wed, 24 Aug 2022 06:38:46 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?p=12</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
-					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/2022/08/24/home-page/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Top 5 những Địa điểm đáng tham quan nhất Sài Gòn</title>
 		<link>https://fat27o6.github.io/phatproject/index.php/2022/08/19/top-5-nhung-dia-diem-dang-tham-quan-nhat-sai-gon/</link>
 					<comments>https://fat27o6.github.io/phatproject/index.php/2022/08/19/top-5-nhung-dia-diem-dang-tham-quan-nhat-sai-gon/#respond</comments>
