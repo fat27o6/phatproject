@@ -1,0 +1,61 @@
+/*
+Theme Name: WEN Travel Corporate
+Description: Used to style Gutenberg Blocks.
+*/
+/* Captions */
+
+.wp-block-pullquote.alignright.is-style-solid-color,
+.wp-block-pullquote.alignleft.is-style-solid-color {
+  border: 0;
+}
+
+.wp-block-pullquote {
+  border-bottom: 5px solid #b99470;
+  border-top: 5px solid #b99470;
+}
+
+.wp-block-pullquote.alignleft {
+  border-left: 5px solid #b99470;
+}
+
+.wp-block-pullquote.alignright {
+  border-right: 5px solid #b99470;
+}
+
+.wp-block-file .wp-block-file__button,
+.wp-block-button .wp-block-button__link {
+  border-radius: 5px;
+}
+
+.is-style-outline .wp-block-button__link,
+.is-style-outline .more-link,
+.is-style-outline .button {
+  border: 1px solid #b99470;
+  background-image: none;
+}
+
+.has-light-red-background-color {
+  background-color: #b99470;
+}
+
+.has-light-red-border-color {
+  border-color: #b99470;
+}
+
+/* LIGHT RED COLOR */
+
+.wp-block-button .wp-block-button__link.has-light-red-background-color,
+.wp-block-pullquote.is-style-solid-color.has-light-red-background-color {
+  background-color: #b99470;
+}
+
+.wp-block-button .wp-block-button__link.has-light-red-color,
+.wp-block-pullquote blockquote.has-light-red-color,
+.wp-block-pullquote blockquote.has-light-red-color cite,
+.has-light-red-color {
+  color: #b99470;
+}
+
+.entry-content a.wp-block-button__link {
+  text-decoration: none;
+}
