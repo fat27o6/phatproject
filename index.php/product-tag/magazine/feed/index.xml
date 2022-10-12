@@ -10,7 +10,7 @@
 <channel>
 	<title>Magazine &#8211; MyProject_501210611</title>
 	<atom:link href="http://localhost/myproject/wordpress/index.php/product-tag/magazine/feed/" rel="self" type="application/rss+xml" />
-	<link>https://fat27o6.github.io/phatproject</link>
+	<link>http://fat27o6.github.io/phatproject</link>
 	<description>Web cuối kỳ_501210611_Nguyễn Hoàng Phát</description>
 	<lastBuildDate>Wed, 12 Oct 2022 07:11:36 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Square box</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/square-box/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/square-box/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/square-box/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/square-box/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 04:51:18 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=623</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=623</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -94,19 +94,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/square-box/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/square-box/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Plastic Bag</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/plastic-bag/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/plastic-bag/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/plastic-bag/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/plastic-bag/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 04:49:26 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=622</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=622</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -174,19 +174,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/plastic-bag/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/plastic-bag/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Paper Cup</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/paper-cup/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/paper-cup/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/paper-cup/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/paper-cup/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 04:45:43 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=621</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=621</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -254,19 +254,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/paper-cup/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/paper-cup/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Paper Box</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/paper-box/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/paper-box/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/paper-box/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/paper-box/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 04:43:02 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=620</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=620</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -334,19 +334,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/paper-box/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/paper-box/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Paper Ticket</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/paper-ticket/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/paper-ticket/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/paper-ticket/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/paper-ticket/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 04:40:07 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=619</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=619</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -414,19 +414,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/paper-ticket/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/paper-ticket/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How to rich</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/how-to-rich/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/how-to-rich/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/how-to-rich/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/how-to-rich/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 04:36:06 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=618</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=618</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -494,19 +494,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/how-to-rich/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/how-to-rich/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Invitation cards yellow</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/invitation-cards-yellow/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/invitation-cards-yellow/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/invitation-cards-yellow/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/invitation-cards-yellow/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 04:34:34 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=617</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=617</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -574,19 +574,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/invitation-cards-yellow/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/invitation-cards-yellow/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Invitation cards</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/invitation-cards/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/invitation-cards/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/invitation-cards/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/invitation-cards/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 04:33:36 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=616</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=616</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -654,19 +654,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/invitation-cards/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/invitation-cards/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Carry Bag</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/carry-bag/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/carry-bag/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/carry-bag/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/carry-bag/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 04:32:08 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=615</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=615</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-ef64ed0 e-container--column e-container" data-id="ef64ed0" data-element_type="container">
@@ -734,19 +734,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/carry-bag/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/carry-bag/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Brochure Yellow</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/brochure-yellow/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/brochure-yellow/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/brochure-yellow/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/brochure-yellow/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 04:30:16 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=614</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=614</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-ef64ed0 e-container--column e-container" data-id="ef64ed0" data-element_type="container">
@@ -814,7 +814,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/brochure-yellow/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/brochure-yellow/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

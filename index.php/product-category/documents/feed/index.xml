@@ -10,7 +10,7 @@
 <channel>
 	<title>Documents &#8211; MyProject_501210611</title>
 	<atom:link href="http://localhost/myproject/wordpress/index.php/product-category/documents/feed/" rel="self" type="application/rss+xml" />
-	<link>https://fat27o6.github.io/phatproject</link>
+	<link>http://fat27o6.github.io/phatproject</link>
 	<description>Web cuối kỳ_501210611_Nguyễn Hoàng Phát</description>
 	<lastBuildDate>Wed, 12 Oct 2022 07:11:36 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Paper Cup</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/paper-cup/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/paper-cup/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/paper-cup/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/paper-cup/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 04:45:43 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=621</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=621</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -94,19 +94,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/paper-cup/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/paper-cup/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Paper Ticket</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/paper-ticket/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/paper-ticket/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/paper-ticket/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/paper-ticket/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 04:40:07 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=619</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=619</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -174,19 +174,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/paper-ticket/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/paper-ticket/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Carry Bag</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/carry-bag/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/carry-bag/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/carry-bag/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/carry-bag/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 04:32:08 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=615</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=615</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-ef64ed0 e-container--column e-container" data-id="ef64ed0" data-element_type="container">
@@ -254,19 +254,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/carry-bag/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/carry-bag/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Corporate trifold Package</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/corporate-trifold-package/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/corporate-trifold-package/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/corporate-trifold-package/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/corporate-trifold-package/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 02:50:42 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=548</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=548</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -334,19 +334,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/corporate-trifold-package/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/corporate-trifold-package/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Creative Life</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/return-of-book-2/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/return-of-book-2/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/return-of-book-2/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/return-of-book-2/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 02:44:16 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=544</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=544</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -414,19 +414,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/return-of-book-2/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/return-of-book-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Elegant Business Card</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/business-card-master-2/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/business-card-master-2/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/business-card-master-2/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/business-card-master-2/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 02:39:06 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=540</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=540</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -494,19 +494,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/business-card-master-2/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/business-card-master-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Corporate trifold brochure</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/corporate-trifold-brochure/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/corporate-trifold-brochure/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/corporate-trifold-brochure/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/corporate-trifold-brochure/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Wed, 05 Oct 2022 09:59:52 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=538</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=538</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-ef64ed0 e-container--column e-container" data-id="ef64ed0" data-element_type="container">
@@ -574,19 +574,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/corporate-trifold-brochure/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/corporate-trifold-brochure/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ceramic Mug Cup</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/ceramic-mug-cup/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/ceramic-mug-cup/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/ceramic-mug-cup/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/ceramic-mug-cup/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Wed, 05 Oct 2022 09:31:10 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=520</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=520</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -654,19 +654,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/ceramic-mug-cup/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/ceramic-mug-cup/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Holiday Postcard</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/holiday-postcard/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/holiday-postcard/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/holiday-postcard/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/holiday-postcard/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Wed, 05 Oct 2022 07:46:05 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=374</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=374</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-ef64ed0 e-container--column e-container" data-id="ef64ed0" data-element_type="container">
@@ -734,7 +734,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/holiday-postcard/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/holiday-postcard/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

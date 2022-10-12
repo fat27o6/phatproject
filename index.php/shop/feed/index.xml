@@ -10,7 +10,7 @@
 <channel>
 	<title>Products &#8211; MyProject_501210611</title>
 	<atom:link href="http://localhost/myproject/wordpress/index.php/shop/feed/" rel="self" type="application/rss+xml" />
-	<link>https://fat27o6.github.io/phatproject</link>
+	<link>http://fat27o6.github.io/phatproject</link>
 	<description>Web cuối kỳ_501210611_Nguyễn Hoàng Phát</description>
 	<lastBuildDate>Wed, 12 Oct 2022 07:04:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Wedding Invitation</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/wedding-invitation/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/wedding-invitation/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/wedding-invitation/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/wedding-invitation/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 05:11:38 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=632</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=632</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -94,19 +94,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/wedding-invitation/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/wedding-invitation/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pet Leash</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/pet-leash/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/pet-leash/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/pet-leash/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/pet-leash/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 05:10:12 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=631</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=631</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -174,19 +174,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/pet-leash/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/pet-leash/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pet Bandana</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/pet-bandana/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/pet-bandana/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/pet-bandana/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/pet-bandana/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 05:09:19 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=630</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=630</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -254,19 +254,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/pet-bandana/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/pet-bandana/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Food Mat Dog</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/food-mat-dog-2/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/food-mat-dog-2/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/food-mat-dog-2/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/food-mat-dog-2/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 05:05:24 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=629</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=629</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -334,19 +334,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/food-mat-dog-2/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/food-mat-dog-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Metal Plaque Ornament</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/food-mat-dog/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/food-mat-dog/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/food-mat-dog/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/food-mat-dog/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 05:02:31 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=628</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=628</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -414,19 +414,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/food-mat-dog/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/food-mat-dog/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Dog Feeding Mats</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/dog-feeding-mats/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/dog-feeding-mats/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/dog-feeding-mats/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/dog-feeding-mats/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 05:00:37 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=627</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=627</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -494,19 +494,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/dog-feeding-mats/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/dog-feeding-mats/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Cat Collar</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/cat-collar/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/cat-collar/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/cat-collar/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/cat-collar/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 04:59:18 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=626</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=626</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -574,19 +574,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/cat-collar/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/cat-collar/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Cat Bowl</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/cat-bowl/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/cat-bowl/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/cat-bowl/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/cat-bowl/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 04:57:22 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=625</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=625</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -654,19 +654,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/cat-bowl/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/cat-bowl/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bird Tank Top</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/bird-tank-top/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/bird-tank-top/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/bird-tank-top/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/bird-tank-top/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 04:55:05 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=624</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=624</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -734,19 +734,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/bird-tank-top/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/bird-tank-top/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Square box</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/square-box/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/square-box/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/square-box/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/square-box/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 04:51:18 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=623</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=623</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -814,7 +814,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/square-box/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/square-box/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

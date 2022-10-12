@@ -10,7 +10,7 @@
 <channel>
 	<title>T-Shirt &#8211; MyProject_501210611</title>
 	<atom:link href="http://localhost/myproject/wordpress/index.php/product-tag/t-shirt/feed/" rel="self" type="application/rss+xml" />
-	<link>https://fat27o6.github.io/phatproject</link>
+	<link>http://fat27o6.github.io/phatproject</link>
 	<description>Web cuối kỳ_501210611_Nguyễn Hoàng Phát</description>
 	<lastBuildDate>Thu, 06 Oct 2022 05:51:56 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Corporate trifold Package</title>
-		<link>https://fat27o6.github.io/phatproject/index.php/product/corporate-trifold-package/</link>
-					<comments>https://fat27o6.github.io/phatproject/index.php/product/corporate-trifold-package/#respond</comments>
+		<link>http://fat27o6.github.io/phatproject/index.php/product/corporate-trifold-package/</link>
+					<comments>http://fat27o6.github.io/phatproject/index.php/product/corporate-trifold-package/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 02:50:42 +0000</pubDate>
-				<guid isPermaLink="false">https://fat27o6.github.io/phatproject/?post_type=product&#038;p=548</guid>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=548</guid>
 
 					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-element elementor-element-d4e8fad e-container--column e-container" data-id="d4e8fad" data-element_type="container">
@@ -94,7 +94,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fat27o6.github.io/phatproject/index.php/product/corporate-trifold-package/feed/</wfw:commentRss>
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/index.php/product/corporate-trifold-package/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
