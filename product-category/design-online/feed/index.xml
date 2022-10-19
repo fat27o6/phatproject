@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design Online &#8211; MyProject_501210611</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-category/design-online/feed/" rel="self" type="application/rss+xml" />
+	<link>http://fat27o6.github.io/phatproject</link>
+	<description>Web cuối kỳ_501210611_Nguyễn Hoàng Phát</description>
+	<lastBuildDate>Wed, 12 Oct 2022 07:18:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Triptych brochure</title>
+		<link>http://fat27o6.github.io/phatproject/product/triptych-brochure/</link>
+					<comments>http://fat27o6.github.io/phatproject/product/triptych-brochure/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 04:26:14 +0000</pubDate>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=607</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
+										<content:encoded><![CDATA[<div class="elementor-element elementor-element-b74fca0 e-container--column e-container" data-id="b74fca0" data-element_type="container">
+<div class="elementor-element elementor-element-b3fd8d9 elementor-widget elementor-widget-haru-heading" data-id="b3fd8d9" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">CONSECTETUR A SCELERISQUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-5215daa elementor-widget elementor-widget-text-editor" data-id="5215daa" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p><img class="size-full wp-image-6269 alignleft" src="https://demo.harutheme.com/pricom/wp-content/uploads/2022/03/box-icon-21.svg" alt="" />Sed risus neque, sagittis sed pellente sque at, pharetra ut nunc. Phasellus id enim eget ante pellentesque pharetra. Phasellus et nisl urna. Integer nisl dui, efficitur in vopat sodales, tempor sed orci. Donec et euismod ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+<p>Etiam tincidunt dictum eros at porta. Phasellus gravida dolor in sem placerat sodales sagittis sed pellentesque at, pharetra ut nunc.</p>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-3239a5a e-container--column e-container" data-id="3239a5a" data-element_type="container">
+<div class="elementor-element elementor-element-2460a28 elementor-widget elementor-widget-haru-heading" data-id="2460a28" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">IN PHARETRA TURPIS</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-9858b51 elementor-widget elementor-widget-text-editor" data-id="9858b51" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Built around a solid beech frame with legs in polished stainless steel. The Wing chair employs hand-finished stainless steel legs that are virtually maintenance free. CH445 works equally well in groups and on its own, and is best placed where its elegant design can be viewed from all sides.</p>
+</div>
+</div>
+<div class="elementor-element elementor-element-a89be02 elementor-widget elementor-widget-text-editor" data-id="a89be02" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>In pharetra turpis: 65.00 cm</li>
+<li>Aenean pulvinar lorem: 48 colors</li>
+<li>Vestibulum convallis: 2.53 m2</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-1d1dbe5 e-container--column e-container" data-id="1d1dbe5" data-element_type="container">
+<div class="elementor-element elementor-element-8dd9447 elementor-widget elementor-widget-haru-heading" data-id="8dd9447" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">PELLENTESQUE NEC</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-56e5738 elementor-widget elementor-widget-text-editor" data-id="56e5738" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>Sed risus: pharetra ut nunc</li>
+<li>Phasellus id: enim eget ante pellentesque</li>
+<li>Integer nisl: euismod ipsum.</li>
+<li>Interdum et: malesuada fames ac ante ipsum</li>
+<li>Phasellus gravida: dolor in sem placerat sodales</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-a55728f elementor-widget elementor-widget-haru-heading" data-id="a55728f" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">ETIAM NON AUGUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-90c214c elementor-widget elementor-widget-text-editor" data-id="90c214c" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Nullam id pires: 68.00 cm</p>
+<p>Etiam non augue: 86.00 cm</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/product/triptych-brochure/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sweatshirt</title>
+		<link>http://fat27o6.github.io/phatproject/product/sweatshirt/</link>
+					<comments>http://fat27o6.github.io/phatproject/product/sweatshirt/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 04:19:10 +0000</pubDate>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=602</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
+										<content:encoded><![CDATA[<div class="elementor-element elementor-element-b74fca0 e-container--column e-container" data-id="b74fca0" data-element_type="container">
+<div class="elementor-element elementor-element-b3fd8d9 elementor-widget elementor-widget-haru-heading" data-id="b3fd8d9" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">CONSECTETUR A SCELERISQUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-5215daa elementor-widget elementor-widget-text-editor" data-id="5215daa" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p><img class="size-full wp-image-6269 alignleft" src="https://demo.harutheme.com/pricom/wp-content/uploads/2022/03/box-icon-21.svg" alt="" />Sed risus neque, sagittis sed pellente sque at, pharetra ut nunc. Phasellus id enim eget ante pellentesque pharetra. Phasellus et nisl urna. Integer nisl dui, efficitur in vopat sodales, tempor sed orci. Donec et euismod ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+<p>Etiam tincidunt dictum eros at porta. Phasellus gravida dolor in sem placerat sodales sagittis sed pellentesque at, pharetra ut nunc.</p>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-3239a5a e-container--column e-container" data-id="3239a5a" data-element_type="container">
+<div class="elementor-element elementor-element-2460a28 elementor-widget elementor-widget-haru-heading" data-id="2460a28" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">IN PHARETRA TURPIS</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-9858b51 elementor-widget elementor-widget-text-editor" data-id="9858b51" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Built around a solid beech frame with legs in polished stainless steel. The Wing chair employs hand-finished stainless steel legs that are virtually maintenance free. CH445 works equally well in groups and on its own, and is best placed where its elegant design can be viewed from all sides.</p>
+</div>
+</div>
+<div class="elementor-element elementor-element-a89be02 elementor-widget elementor-widget-text-editor" data-id="a89be02" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>In pharetra turpis: 65.00 cm</li>
+<li>Aenean pulvinar lorem: 48 colors</li>
+<li>Vestibulum convallis: 2.53 m2</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-1d1dbe5 e-container--column e-container" data-id="1d1dbe5" data-element_type="container">
+<div class="elementor-element elementor-element-8dd9447 elementor-widget elementor-widget-haru-heading" data-id="8dd9447" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">PELLENTESQUE NEC</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-56e5738 elementor-widget elementor-widget-text-editor" data-id="56e5738" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>Sed risus: pharetra ut nunc</li>
+<li>Phasellus id: enim eget ante pellentesque</li>
+<li>Integer nisl: euismod ipsum.</li>
+<li>Interdum et: malesuada fames ac ante ipsum</li>
+<li>Phasellus gravida: dolor in sem placerat sodales</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-a55728f elementor-widget elementor-widget-haru-heading" data-id="a55728f" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">ETIAM NON AUGUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-90c214c elementor-widget elementor-widget-text-editor" data-id="90c214c" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Nullam id pires: 68.00 cm</p>
+<p>Etiam non augue: 86.00 cm</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/product/sweatshirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sticker</title>
+		<link>http://fat27o6.github.io/phatproject/product/sticker/</link>
+					<comments>http://fat27o6.github.io/phatproject/product/sticker/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 04:10:26 +0000</pubDate>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=597</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
+										<content:encoded><![CDATA[<div class="elementor-element elementor-element-b74fca0 e-container--column e-container" data-id="b74fca0" data-element_type="container">
+<div class="elementor-element elementor-element-b3fd8d9 elementor-widget elementor-widget-haru-heading" data-id="b3fd8d9" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">CONSECTETUR A SCELERISQUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-5215daa elementor-widget elementor-widget-text-editor" data-id="5215daa" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p><img class="size-full wp-image-6269 alignleft" src="https://demo.harutheme.com/pricom/wp-content/uploads/2022/03/box-icon-21.svg" alt="" />Sed risus neque, sagittis sed pellente sque at, pharetra ut nunc. Phasellus id enim eget ante pellentesque pharetra. Phasellus et nisl urna. Integer nisl dui, efficitur in vopat sodales, tempor sed orci. Donec et euismod ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+<p>Etiam tincidunt dictum eros at porta. Phasellus gravida dolor in sem placerat sodales sagittis sed pellentesque at, pharetra ut nunc.</p>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-3239a5a e-container--column e-container" data-id="3239a5a" data-element_type="container">
+<div class="elementor-element elementor-element-2460a28 elementor-widget elementor-widget-haru-heading" data-id="2460a28" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">IN PHARETRA TURPIS</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-9858b51 elementor-widget elementor-widget-text-editor" data-id="9858b51" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Built around a solid beech frame with legs in polished stainless steel. The Wing chair employs hand-finished stainless steel legs that are virtually maintenance free. CH445 works equally well in groups and on its own, and is best placed where its elegant design can be viewed from all sides.</p>
+</div>
+</div>
+<div class="elementor-element elementor-element-a89be02 elementor-widget elementor-widget-text-editor" data-id="a89be02" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>In pharetra turpis: 65.00 cm</li>
+<li>Aenean pulvinar lorem: 48 colors</li>
+<li>Vestibulum convallis: 2.53 m2</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-1d1dbe5 e-container--column e-container" data-id="1d1dbe5" data-element_type="container">
+<div class="elementor-element elementor-element-8dd9447 elementor-widget elementor-widget-haru-heading" data-id="8dd9447" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">PELLENTESQUE NEC</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-56e5738 elementor-widget elementor-widget-text-editor" data-id="56e5738" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>Sed risus: pharetra ut nunc</li>
+<li>Phasellus id: enim eget ante pellentesque</li>
+<li>Integer nisl: euismod ipsum.</li>
+<li>Interdum et: malesuada fames ac ante ipsum</li>
+<li>Phasellus gravida: dolor in sem placerat sodales</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-a55728f elementor-widget elementor-widget-haru-heading" data-id="a55728f" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">ETIAM NON AUGUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-90c214c elementor-widget elementor-widget-text-editor" data-id="90c214c" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Nullam id pires: 68.00 cm</p>
+<p>Etiam non augue: 86.00 cm</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/product/sticker/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Poster</title>
+		<link>http://fat27o6.github.io/phatproject/product/poster/</link>
+					<comments>http://fat27o6.github.io/phatproject/product/poster/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 04:01:28 +0000</pubDate>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=593</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
+										<content:encoded><![CDATA[<div class="elementor-element elementor-element-b74fca0 e-container--column e-container" data-id="b74fca0" data-element_type="container">
+<div class="elementor-element elementor-element-b3fd8d9 elementor-widget elementor-widget-haru-heading" data-id="b3fd8d9" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">CONSECTETUR A SCELERISQUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-5215daa elementor-widget elementor-widget-text-editor" data-id="5215daa" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p><img class="size-full wp-image-6269 alignleft" src="https://demo.harutheme.com/pricom/wp-content/uploads/2022/03/box-icon-21.svg" alt="" />Sed risus neque, sagittis sed pellente sque at, pharetra ut nunc. Phasellus id enim eget ante pellentesque pharetra. Phasellus et nisl urna. Integer nisl dui, efficitur in vopat sodales, tempor sed orci. Donec et euismod ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+<p>Etiam tincidunt dictum eros at porta. Phasellus gravida dolor in sem placerat sodales sagittis sed pellentesque at, pharetra ut nunc.</p>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-3239a5a e-container--column e-container" data-id="3239a5a" data-element_type="container">
+<div class="elementor-element elementor-element-2460a28 elementor-widget elementor-widget-haru-heading" data-id="2460a28" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">IN PHARETRA TURPIS</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-9858b51 elementor-widget elementor-widget-text-editor" data-id="9858b51" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Built around a solid beech frame with legs in polished stainless steel. The Wing chair employs hand-finished stainless steel legs that are virtually maintenance free. CH445 works equally well in groups and on its own, and is best placed where its elegant design can be viewed from all sides.</p>
+</div>
+</div>
+<div class="elementor-element elementor-element-a89be02 elementor-widget elementor-widget-text-editor" data-id="a89be02" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>In pharetra turpis: 65.00 cm</li>
+<li>Aenean pulvinar lorem: 48 colors</li>
+<li>Vestibulum convallis: 2.53 m2</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-1d1dbe5 e-container--column e-container" data-id="1d1dbe5" data-element_type="container">
+<div class="elementor-element elementor-element-8dd9447 elementor-widget elementor-widget-haru-heading" data-id="8dd9447" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">PELLENTESQUE NEC</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-56e5738 elementor-widget elementor-widget-text-editor" data-id="56e5738" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>Sed risus: pharetra ut nunc</li>
+<li>Phasellus id: enim eget ante pellentesque</li>
+<li>Integer nisl: euismod ipsum.</li>
+<li>Interdum et: malesuada fames ac ante ipsum</li>
+<li>Phasellus gravida: dolor in sem placerat sodales</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-a55728f elementor-widget elementor-widget-haru-heading" data-id="a55728f" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">ETIAM NON AUGUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-90c214c elementor-widget elementor-widget-text-editor" data-id="90c214c" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Nullam id pires: 68.00 cm</p>
+<p>Etiam non augue: 86.00 cm</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/product/poster/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Phone case</title>
+		<link>http://fat27o6.github.io/phatproject/product/phone-case/</link>
+					<comments>http://fat27o6.github.io/phatproject/product/phone-case/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 03:58:35 +0000</pubDate>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=590</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
+										<content:encoded><![CDATA[<div class="elementor-element elementor-element-b74fca0 e-container--column e-container" data-id="b74fca0" data-element_type="container">
+<div class="elementor-element elementor-element-b3fd8d9 elementor-widget elementor-widget-haru-heading" data-id="b3fd8d9" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">CONSECTETUR A SCELERISQUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-5215daa elementor-widget elementor-widget-text-editor" data-id="5215daa" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p><img class="size-full wp-image-6269 alignleft" src="https://demo.harutheme.com/pricom/wp-content/uploads/2022/03/box-icon-21.svg" alt="" />Sed risus neque, sagittis sed pellente sque at, pharetra ut nunc. Phasellus id enim eget ante pellentesque pharetra. Phasellus et nisl urna. Integer nisl dui, efficitur in vopat sodales, tempor sed orci. Donec et euismod ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+<p>Etiam tincidunt dictum eros at porta. Phasellus gravida dolor in sem placerat sodales sagittis sed pellentesque at, pharetra ut nunc.</p>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-3239a5a e-container--column e-container" data-id="3239a5a" data-element_type="container">
+<div class="elementor-element elementor-element-2460a28 elementor-widget elementor-widget-haru-heading" data-id="2460a28" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">IN PHARETRA TURPIS</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-9858b51 elementor-widget elementor-widget-text-editor" data-id="9858b51" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Built around a solid beech frame with legs in polished stainless steel. The Wing chair employs hand-finished stainless steel legs that are virtually maintenance free. CH445 works equally well in groups and on its own, and is best placed where its elegant design can be viewed from all sides.</p>
+</div>
+</div>
+<div class="elementor-element elementor-element-a89be02 elementor-widget elementor-widget-text-editor" data-id="a89be02" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>In pharetra turpis: 65.00 cm</li>
+<li>Aenean pulvinar lorem: 48 colors</li>
+<li>Vestibulum convallis: 2.53 m2</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-1d1dbe5 e-container--column e-container" data-id="1d1dbe5" data-element_type="container">
+<div class="elementor-element elementor-element-8dd9447 elementor-widget elementor-widget-haru-heading" data-id="8dd9447" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">PELLENTESQUE NEC</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-56e5738 elementor-widget elementor-widget-text-editor" data-id="56e5738" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>Sed risus: pharetra ut nunc</li>
+<li>Phasellus id: enim eget ante pellentesque</li>
+<li>Integer nisl: euismod ipsum.</li>
+<li>Interdum et: malesuada fames ac ante ipsum</li>
+<li>Phasellus gravida: dolor in sem placerat sodales</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-a55728f elementor-widget elementor-widget-haru-heading" data-id="a55728f" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">ETIAM NON AUGUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-90c214c elementor-widget elementor-widget-text-editor" data-id="90c214c" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Nullam id pires: 68.00 cm</p>
+<p>Etiam non augue: 86.00 cm</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/product/phone-case/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mug</title>
+		<link>http://fat27o6.github.io/phatproject/product/mug/</link>
+					<comments>http://fat27o6.github.io/phatproject/product/mug/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 03:56:15 +0000</pubDate>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=586</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
+										<content:encoded><![CDATA[<div class="elementor-element elementor-element-b74fca0 e-container--column e-container" data-id="b74fca0" data-element_type="container">
+<div class="elementor-element elementor-element-b3fd8d9 elementor-widget elementor-widget-haru-heading" data-id="b3fd8d9" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">CONSECTETUR A SCELERISQUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-5215daa elementor-widget elementor-widget-text-editor" data-id="5215daa" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p><img class="size-full wp-image-6269 alignleft" src="https://demo.harutheme.com/pricom/wp-content/uploads/2022/03/box-icon-21.svg" alt="" />Sed risus neque, sagittis sed pellente sque at, pharetra ut nunc. Phasellus id enim eget ante pellentesque pharetra. Phasellus et nisl urna. Integer nisl dui, efficitur in vopat sodales, tempor sed orci. Donec et euismod ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+<p>Etiam tincidunt dictum eros at porta. Phasellus gravida dolor in sem placerat sodales sagittis sed pellentesque at, pharetra ut nunc.</p>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-3239a5a e-container--column e-container" data-id="3239a5a" data-element_type="container">
+<div class="elementor-element elementor-element-2460a28 elementor-widget elementor-widget-haru-heading" data-id="2460a28" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">IN PHARETRA TURPIS</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-9858b51 elementor-widget elementor-widget-text-editor" data-id="9858b51" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Built around a solid beech frame with legs in polished stainless steel. The Wing chair employs hand-finished stainless steel legs that are virtually maintenance free. CH445 works equally well in groups and on its own, and is best placed where its elegant design can be viewed from all sides.</p>
+</div>
+</div>
+<div class="elementor-element elementor-element-a89be02 elementor-widget elementor-widget-text-editor" data-id="a89be02" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>In pharetra turpis: 65.00 cm</li>
+<li>Aenean pulvinar lorem: 48 colors</li>
+<li>Vestibulum convallis: 2.53 m2</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-1d1dbe5 e-container--column e-container" data-id="1d1dbe5" data-element_type="container">
+<div class="elementor-element elementor-element-8dd9447 elementor-widget elementor-widget-haru-heading" data-id="8dd9447" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">PELLENTESQUE NEC</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-56e5738 elementor-widget elementor-widget-text-editor" data-id="56e5738" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>Sed risus: pharetra ut nunc</li>
+<li>Phasellus id: enim eget ante pellentesque</li>
+<li>Integer nisl: euismod ipsum.</li>
+<li>Interdum et: malesuada fames ac ante ipsum</li>
+<li>Phasellus gravida: dolor in sem placerat sodales</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-a55728f elementor-widget elementor-widget-haru-heading" data-id="a55728f" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">ETIAM NON AUGUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-90c214c elementor-widget elementor-widget-text-editor" data-id="90c214c" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Nullam id pires: 68.00 cm</p>
+<p>Etiam non augue: 86.00 cm</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/product/mug/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mouse Pad</title>
+		<link>http://fat27o6.github.io/phatproject/product/mouse-pad/</link>
+					<comments>http://fat27o6.github.io/phatproject/product/mouse-pad/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 03:43:23 +0000</pubDate>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=581</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
+										<content:encoded><![CDATA[<div class="elementor-element elementor-element-b74fca0 e-container--column e-container" data-id="b74fca0" data-element_type="container">
+<div class="elementor-element elementor-element-b3fd8d9 elementor-widget elementor-widget-haru-heading" data-id="b3fd8d9" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">CONSECTETUR A SCELERISQUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-5215daa elementor-widget elementor-widget-text-editor" data-id="5215daa" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p><img class="size-full wp-image-6269 alignleft" src="https://demo.harutheme.com/pricom/wp-content/uploads/2022/03/box-icon-21.svg" alt="" />Sed risus neque, sagittis sed pellente sque at, pharetra ut nunc. Phasellus id enim eget ante pellentesque pharetra. Phasellus et nisl urna. Integer nisl dui, efficitur in vopat sodales, tempor sed orci. Donec et euismod ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+<p>Etiam tincidunt dictum eros at porta. Phasellus gravida dolor in sem placerat sodales sagittis sed pellentesque at, pharetra ut nunc.</p>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-3239a5a e-container--column e-container" data-id="3239a5a" data-element_type="container">
+<div class="elementor-element elementor-element-2460a28 elementor-widget elementor-widget-haru-heading" data-id="2460a28" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">IN PHARETRA TURPIS</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-9858b51 elementor-widget elementor-widget-text-editor" data-id="9858b51" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Built around a solid beech frame with legs in polished stainless steel. The Wing chair employs hand-finished stainless steel legs that are virtually maintenance free. CH445 works equally well in groups and on its own, and is best placed where its elegant design can be viewed from all sides.</p>
+</div>
+</div>
+<div class="elementor-element elementor-element-a89be02 elementor-widget elementor-widget-text-editor" data-id="a89be02" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>In pharetra turpis: 65.00 cm</li>
+<li>Aenean pulvinar lorem: 48 colors</li>
+<li>Vestibulum convallis: 2.53 m2</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-1d1dbe5 e-container--column e-container" data-id="1d1dbe5" data-element_type="container">
+<div class="elementor-element elementor-element-8dd9447 elementor-widget elementor-widget-haru-heading" data-id="8dd9447" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">PELLENTESQUE NEC</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-56e5738 elementor-widget elementor-widget-text-editor" data-id="56e5738" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>Sed risus: pharetra ut nunc</li>
+<li>Phasellus id: enim eget ante pellentesque</li>
+<li>Integer nisl: euismod ipsum.</li>
+<li>Interdum et: malesuada fames ac ante ipsum</li>
+<li>Phasellus gravida: dolor in sem placerat sodales</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-a55728f elementor-widget elementor-widget-haru-heading" data-id="a55728f" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">ETIAM NON AUGUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-90c214c elementor-widget elementor-widget-text-editor" data-id="90c214c" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Nullam id pires: 68.00 cm</p>
+<p>Etiam non augue: 86.00 cm</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/product/mouse-pad/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Men’s t-shirt</title>
+		<link>http://fat27o6.github.io/phatproject/product/mens-t-shirt/</link>
+					<comments>http://fat27o6.github.io/phatproject/product/mens-t-shirt/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 03:39:32 +0000</pubDate>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=577</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
+										<content:encoded><![CDATA[<div class="elementor-element elementor-element-b74fca0 e-container--column e-container" data-id="b74fca0" data-element_type="container">
+<div class="elementor-element elementor-element-b3fd8d9 elementor-widget elementor-widget-haru-heading" data-id="b3fd8d9" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">CONSECTETUR A SCELERISQUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-5215daa elementor-widget elementor-widget-text-editor" data-id="5215daa" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p><img class="size-full wp-image-6269 alignleft" src="https://demo.harutheme.com/pricom/wp-content/uploads/2022/03/box-icon-21.svg" alt="" />Sed risus neque, sagittis sed pellente sque at, pharetra ut nunc. Phasellus id enim eget ante pellentesque pharetra. Phasellus et nisl urna. Integer nisl dui, efficitur in vopat sodales, tempor sed orci. Donec et euismod ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+<p>Etiam tincidunt dictum eros at porta. Phasellus gravida dolor in sem placerat sodales sagittis sed pellentesque at, pharetra ut nunc.</p>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-3239a5a e-container--column e-container" data-id="3239a5a" data-element_type="container">
+<div class="elementor-element elementor-element-2460a28 elementor-widget elementor-widget-haru-heading" data-id="2460a28" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">IN PHARETRA TURPIS</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-9858b51 elementor-widget elementor-widget-text-editor" data-id="9858b51" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Built around a solid beech frame with legs in polished stainless steel. The Wing chair employs hand-finished stainless steel legs that are virtually maintenance free. CH445 works equally well in groups and on its own, and is best placed where its elegant design can be viewed from all sides.</p>
+</div>
+</div>
+<div class="elementor-element elementor-element-a89be02 elementor-widget elementor-widget-text-editor" data-id="a89be02" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>In pharetra turpis: 65.00 cm</li>
+<li>Aenean pulvinar lorem: 48 colors</li>
+<li>Vestibulum convallis: 2.53 m2</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-1d1dbe5 e-container--column e-container" data-id="1d1dbe5" data-element_type="container">
+<div class="elementor-element elementor-element-8dd9447 elementor-widget elementor-widget-haru-heading" data-id="8dd9447" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">PELLENTESQUE NEC</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-56e5738 elementor-widget elementor-widget-text-editor" data-id="56e5738" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>Sed risus: pharetra ut nunc</li>
+<li>Phasellus id: enim eget ante pellentesque</li>
+<li>Integer nisl: euismod ipsum.</li>
+<li>Interdum et: malesuada fames ac ante ipsum</li>
+<li>Phasellus gravida: dolor in sem placerat sodales</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-a55728f elementor-widget elementor-widget-haru-heading" data-id="a55728f" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">ETIAM NON AUGUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-90c214c elementor-widget elementor-widget-text-editor" data-id="90c214c" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Nullam id pires: 68.00 cm</p>
+<p>Etiam non augue: 86.00 cm</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/product/mens-t-shirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Flyer</title>
+		<link>http://fat27o6.github.io/phatproject/product/flyer/</link>
+					<comments>http://fat27o6.github.io/phatproject/product/flyer/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 03:35:37 +0000</pubDate>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=573</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
+										<content:encoded><![CDATA[<div class="elementor-element elementor-element-b74fca0 e-container--column e-container" data-id="b74fca0" data-element_type="container">
+<div class="elementor-element elementor-element-b3fd8d9 elementor-widget elementor-widget-haru-heading" data-id="b3fd8d9" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">CONSECTETUR A SCELERISQUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-5215daa elementor-widget elementor-widget-text-editor" data-id="5215daa" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p><img class="size-full wp-image-6269 alignleft" src="https://demo.harutheme.com/pricom/wp-content/uploads/2022/03/box-icon-21.svg" alt="" />Sed risus neque, sagittis sed pellente sque at, pharetra ut nunc. Phasellus id enim eget ante pellentesque pharetra. Phasellus et nisl urna. Integer nisl dui, efficitur in vopat sodales, tempor sed orci. Donec et euismod ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+<p>Etiam tincidunt dictum eros at porta. Phasellus gravida dolor in sem placerat sodales sagittis sed pellentesque at, pharetra ut nunc.</p>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-3239a5a e-container--column e-container" data-id="3239a5a" data-element_type="container">
+<div class="elementor-element elementor-element-2460a28 elementor-widget elementor-widget-haru-heading" data-id="2460a28" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">IN PHARETRA TURPIS</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-9858b51 elementor-widget elementor-widget-text-editor" data-id="9858b51" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Built around a solid beech frame with legs in polished stainless steel. The Wing chair employs hand-finished stainless steel legs that are virtually maintenance free. CH445 works equally well in groups and on its own, and is best placed where its elegant design can be viewed from all sides.</p>
+</div>
+</div>
+<div class="elementor-element elementor-element-a89be02 elementor-widget elementor-widget-text-editor" data-id="a89be02" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>In pharetra turpis: 65.00 cm</li>
+<li>Aenean pulvinar lorem: 48 colors</li>
+<li>Vestibulum convallis: 2.53 m2</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-1d1dbe5 e-container--column e-container" data-id="1d1dbe5" data-element_type="container">
+<div class="elementor-element elementor-element-8dd9447 elementor-widget elementor-widget-haru-heading" data-id="8dd9447" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">PELLENTESQUE NEC</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-56e5738 elementor-widget elementor-widget-text-editor" data-id="56e5738" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>Sed risus: pharetra ut nunc</li>
+<li>Phasellus id: enim eget ante pellentesque</li>
+<li>Integer nisl: euismod ipsum.</li>
+<li>Interdum et: malesuada fames ac ante ipsum</li>
+<li>Phasellus gravida: dolor in sem placerat sodales</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-a55728f elementor-widget elementor-widget-haru-heading" data-id="a55728f" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">ETIAM NON AUGUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-90c214c elementor-widget elementor-widget-text-editor" data-id="90c214c" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Nullam id pires: 68.00 cm</p>
+<p>Etiam non augue: 86.00 cm</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/product/flyer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Diptych brochure</title>
+		<link>http://fat27o6.github.io/phatproject/product/diptych-brochure/</link>
+					<comments>http://fat27o6.github.io/phatproject/product/diptych-brochure/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenHoangPhat]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2022 03:32:30 +0000</pubDate>
+				<guid isPermaLink="false">http://fat27o6.github.io/phatproject/?post_type=product&#038;p=568</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. In tristique malesuada elit, ut facilisis tellus elementum id. Nullam id consectetur diam. Pellentesque nec tristique sapien etiam non augue lacus.]]></description>
+										<content:encoded><![CDATA[<div class="elementor-element elementor-element-b74fca0 e-container--column e-container" data-id="b74fca0" data-element_type="container">
+<div class="elementor-element elementor-element-b3fd8d9 elementor-widget elementor-widget-haru-heading" data-id="b3fd8d9" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">CONSECTETUR A SCELERISQUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-5215daa elementor-widget elementor-widget-text-editor" data-id="5215daa" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p><img class="size-full wp-image-6269 alignleft" src="https://demo.harutheme.com/pricom/wp-content/uploads/2022/03/box-icon-21.svg" alt="" />Sed risus neque, sagittis sed pellente sque at, pharetra ut nunc. Phasellus id enim eget ante pellentesque pharetra. Phasellus et nisl urna. Integer nisl dui, efficitur in vopat sodales, tempor sed orci. Donec et euismod ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</p>
+<p>Etiam tincidunt dictum eros at porta. Phasellus gravida dolor in sem placerat sodales sagittis sed pellentesque at, pharetra ut nunc.</p>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-3239a5a e-container--column e-container" data-id="3239a5a" data-element_type="container">
+<div class="elementor-element elementor-element-2460a28 elementor-widget elementor-widget-haru-heading" data-id="2460a28" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">IN PHARETRA TURPIS</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-9858b51 elementor-widget elementor-widget-text-editor" data-id="9858b51" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Built around a solid beech frame with legs in polished stainless steel. The Wing chair employs hand-finished stainless steel legs that are virtually maintenance free. CH445 works equally well in groups and on its own, and is best placed where its elegant design can be viewed from all sides.</p>
+</div>
+</div>
+<div class="elementor-element elementor-element-a89be02 elementor-widget elementor-widget-text-editor" data-id="a89be02" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>In pharetra turpis: 65.00 cm</li>
+<li>Aenean pulvinar lorem: 48 colors</li>
+<li>Vestibulum convallis: 2.53 m2</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-1d1dbe5 e-container--column e-container" data-id="1d1dbe5" data-element_type="container">
+<div class="elementor-element elementor-element-8dd9447 elementor-widget elementor-widget-haru-heading" data-id="8dd9447" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">PELLENTESQUE NEC</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-56e5738 elementor-widget elementor-widget-text-editor" data-id="56e5738" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul>
+<li>Sed risus: pharetra ut nunc</li>
+<li>Phasellus id: enim eget ante pellentesque</li>
+<li>Integer nisl: euismod ipsum.</li>
+<li>Interdum et: malesuada fames ac ante ipsum</li>
+<li>Phasellus gravida: dolor in sem placerat sodales</li>
+</ul>
+</div>
+</div>
+<div class="elementor-element elementor-element-a55728f elementor-widget elementor-widget-haru-heading" data-id="a55728f" data-element_type="widget" data-widget_type="haru-heading.default">
+<div class="elementor-widget-container">
+<h2 class="haru-heading-title haru-heading-title--single-heading-1">ETIAM NON AUGUE</h2>
+</div>
+</div>
+<div class="elementor-element elementor-element-90c214c elementor-widget elementor-widget-text-editor" data-id="90c214c" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<p>Nullam id pires: 68.00 cm</p>
+<p>Etiam non augue: 86.00 cm</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://fat27o6.github.io/phatproject/product/diptych-brochure/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
