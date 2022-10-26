@@ -1,4 +1,4 @@
-.elementor-946 .elementor-element.elementor-element-0bab0d9{box-shadow:0px 0px 10px 0px rgba(0,0,0,0.5);}.elementor-946 .elementor-element.elementor-element-21fa074 .elementor-heading-title{color:#000000;font-family:"Outfit", Sans-serif;font-size:18px;font-weight:600;font-style:normal;text-decoration:none;}.elementor-946 .elementor-element.elementor-element-21fa074{z-index:0;}.elementor-946 .elementor-element.elementor-element-2f393e4 .elementor-heading-title{color:#575656D9;font-family:"Outfit", Sans-serif;font-size:16px;font-weight:500;font-style:normal;text-decoration:none;}.elementor-946 .elementor-element.elementor-element-2f393e4{z-index:0;}.elementor-946 .elementor-element.elementor-element-26a6ccc{--grid-template-columns:repeat(0, auto);--icon-size:21px;--grid-column-gap:5px;--grid-row-gap:0px;top:341px;z-index:1;}.elementor-946 .elementor-element.elementor-element-26a6ccc .elementor-widget-container{text-align:center;}.elementor-946 .elementor-element.elementor-element-26a6ccc .elementor-social-icon{background-color:#FFFFFF;}.elementor-946 .elementor-element.elementor-element-26a6ccc .elementor-social-icon i{color:#7E7E7E;}.elementor-946 .elementor-element.elementor-element-26a6ccc .elementor-social-icon svg{fill:#7E7E7E;}.elementor-946 .elementor-element.elementor-element-26a6ccc .elementor-social-icon:hover i{color:#DD1D26;}.elementor-946 .elementor-element.elementor-element-26a6ccc .elementor-social-icon:hover svg{fill:#DD1D26;}.elementor-946 .elementor-element.elementor-element-26a6ccc > .elementor-widget-container{padding:25px 0px 25px 0px;}body:not(.rtl) .elementor-946 .elementor-element.elementor-element-26a6ccc{left:0px;}body.rtl .elementor-946 .elementor-element.elementor-element-26a6ccc{right:0px;}/* Start custom CSS for heading, class: .elementor-element-21fa074 */.elementor-946 .elementor-element.elementor-element-21fa074{
+.elementor-946 .elementor-element.elementor-element-0bab0d9{box-shadow:0px 0px 10px 0px rgba(0,0,0,0.5);}.elementor-946 .elementor-element.elementor-element-21fa074 .elementor-heading-title{color:#000000;font-family:"Outfit", Sans-serif;font-size:18px;font-weight:600;font-style:normal;text-decoration:none;}.elementor-946 .elementor-element.elementor-element-21fa074{z-index:0;}.elementor-946 .elementor-element.elementor-element-2f393e4 .elementor-heading-title{color:#575656D9;font-family:"Outfit", Sans-serif;font-size:16px;font-weight:500;font-style:normal;text-decoration:none;}.elementor-946 .elementor-element.elementor-element-2f393e4{z-index:0;}.elementor-946 .elementor-element.elementor-element-26a6ccc{--grid-template-columns:repeat(0, auto);--icon-size:21px;--grid-column-gap:5px;--grid-row-gap:0px;top:341px;z-index:3;}.elementor-946 .elementor-element.elementor-element-26a6ccc .elementor-widget-container{text-align:center;}.elementor-946 .elementor-element.elementor-element-26a6ccc .elementor-social-icon{background-color:#FFFFFF;}.elementor-946 .elementor-element.elementor-element-26a6ccc .elementor-social-icon i{color:#7E7E7E;}.elementor-946 .elementor-element.elementor-element-26a6ccc .elementor-social-icon svg{fill:#7E7E7E;}.elementor-946 .elementor-element.elementor-element-26a6ccc .elementor-social-icon:hover i{color:#DD1D26;}.elementor-946 .elementor-element.elementor-element-26a6ccc .elementor-social-icon:hover svg{fill:#DD1D26;}.elementor-946 .elementor-element.elementor-element-26a6ccc > .elementor-widget-container{padding:25px 0px 25px 0px;}body:not(.rtl) .elementor-946 .elementor-element.elementor-element-26a6ccc{left:0px;}body.rtl .elementor-946 .elementor-element.elementor-element-26a6ccc{right:0px;}/* Start custom CSS for heading, class: .elementor-element-21fa074 */.elementor-946 .elementor-element.elementor-element-21fa074{
     opacity: 1;
     visibility: visible;
     transition: all .3s;
@@ -17,15 +17,14 @@
     transition-delay: 0s;
 }/* End custom CSS */
 /* Start custom CSS for social-icons, class: .elementor-element-26a6ccc */.elementor-946 .elementor-element.elementor-element-26a6ccc{
-    list-style: none;
-    list-style-type: none;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    height: 100%;
     display: flex;
+    flex-direction: row;
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
     opacity: 0;
     visibility: hidden;
+    text-align: center;
     transition: all .3s;
     transition-property: all;
     transition-duration: 0.3s;
